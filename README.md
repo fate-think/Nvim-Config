@@ -4,7 +4,7 @@ A series of neovim config files
 # Tutorial
 
 ## Install necesarry dependencies
-$ pkg install neovim-nightly nodejs-lts lua54
+$ pkg install neovim-nightly nodejs-lts lua54  
 $ npm install -g yarn
 
 ## Clone packer.nvim(a package manager) into local directory
