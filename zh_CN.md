@@ -44,8 +44,13 @@ $ git clone https://github.com/fate-think/Nvim-Config ~/.config/nvim/
 `:Ag 内容`    
 `:Rg 内容`
 
-- 打开markdown预览命令    
+- 打开markdown预览命令       
 `:MarkdownPreview`
 
 - 关闭markdown预览命令    
-`:MarkdownPreviewStop`
+`:MarkdownPreviewStop
+
+- 代码补全 使用方法    
+`Ctrl + j` 下移    
+`Ctrl + k` 上移    
+`Enter` 选中

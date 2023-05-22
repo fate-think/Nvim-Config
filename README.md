@@ -43,11 +43,16 @@ start nvim,execute:
 
 ## Extra instructions:
 - How to search   
-`:Ag 内容`
-`:Rg 内容`
+`:Ag 内容`   
+`:Rg 内容`   
 
-- open markdown preview
+- open markdown preview    
 `:MarkdownPreview`
 
-- close markdown preview
-`:MarkdownPreviewStop`
+- close markdown preview     
+`:MarkdownPreviewStop`   
+
+- Auto-completion instruction      
+`Ctrl + j` cursor down   
+`Ctrl + k` cursor up   
+`Enter` select`
