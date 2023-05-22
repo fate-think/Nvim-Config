@@ -55,4 +55,4 @@ start nvim,execute:
 - Auto-completion instruction      
 `Ctrl + j` cursor down   
 `Ctrl + k` cursor up   
-`Enter` select`
+`Enter` select

@@ -48,7 +48,7 @@ $ git clone https://github.com/fate-think/Nvim-Config ~/.config/nvim/
 `:MarkdownPreview`
 
 - 关闭markdown预览命令    
-`:MarkdownPreviewStop
+`:MarkdownPreviewStop`
 
 - 代码补全 使用方法    
 `Ctrl + j` 下移    
