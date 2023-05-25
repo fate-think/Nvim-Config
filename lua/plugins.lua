@@ -3,6 +3,13 @@ return require("packer").startup(function()
     use { "ellisonleao/gruvbox.nvim" }
     use("shaunsingh/nord.nvim")
 	use("cocopon/iceberg.vim")
+    use('igorgue/danger')
+    use {
+        "folke/tokyonight.nvim",
+        lazy = false,
+        priority = 1000,
+        opts = {},
+    }
     -- 代码高亮
     use {
         'nvim-treesitter/nvim-treesitter',

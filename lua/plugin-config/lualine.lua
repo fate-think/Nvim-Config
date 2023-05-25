@@ -13,6 +13,6 @@ tabline = {
           } ,
 --]]
 options = {
-        theme = 'nord'
+        theme = 'tokyonight'
           }
 }
