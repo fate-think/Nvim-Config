@@ -22,6 +22,8 @@
 ```
 $ pkg install neovim-nightly nodejs-lts lua54  
 $ npm install -g yarn
+# 安装ag rg (都是搜索工具)
+$ pkg install silversearcher-ag ripgrep
 ```
 
 - 克隆packer.nvim包管理器的源码到本地
