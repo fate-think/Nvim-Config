@@ -20,7 +20,7 @@
 
 - 安装必要依赖
 ```
-$ pkg install neovim-nightly nodejs-lts lua54  
+$ pkg install git clang neovim-nightly nodejs-lts lua54  
 $ npm install -g yarn
 # 安装ag rg (都是搜索工具)
 $ pkg install silversearcher-ag ripgrep
