@@ -22,9 +22,8 @@ Test environment: `Android termux`
 
 - Install necesarry dependencies
 ```
-$ pkg install neovim-nightly nodejs-lts lua54  
+$ pkg install git clang neovim-nightly nodejs-lts lua54 silversearcher-ag ripgrep
 $ npm install -g yarn
-$ pkg install silversearcher-ag ripgrep
 ```
 
 - Clone packer.nvim(a package manager) into local directory
